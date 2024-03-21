@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bjarte-matre/masteroppgavePublic/MasteroppgaveCpp/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/CppAccelertedDiagonalization.dir/main.cpp.o -c /home/bjarte-matre/masteroppgavePublic/MasteroppgaveCpp/main.cpp",
+  "file": "/home/bjarte-matre/masteroppgavePublic/MasteroppgaveCpp/main.cpp"
+}
+]
